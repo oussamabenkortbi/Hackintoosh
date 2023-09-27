@@ -3,12 +3,11 @@ Ryzen 3600 with RX460
 ---
 My config:
 ---
-* Ryzen 3600
-* MSI B450 A Pro Max
-* 16GB 2666Mhz Ram (Showing 1333 ://)
-* RX 460 4GB
-* M.2 Adata xpg 240GB SSD
-* HDD 500GB Hetachi
+* Ryzen 5700G
+* ASUS PRIME B450M-K II
+* 16GB 3200Mhz Ram
+* IGPU Radeon Graphics 8 Core 2000 Mhz (integrated with ryzen 5700G)
+* NVMe TeamGroup 512GB SSD
 
 Screenshot:
-* https://i.ibb.co/j6MHbLY/Screen-Shot-2021-10-29-at-9-12-01-AM.png
+https://i.ibb.co/khWsvVs/Screen-Shot-2023-09-27-at-3-05-05-AM.png
